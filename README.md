@@ -10,7 +10,7 @@ Update :-
 - We have added pagination of 10; per page you can 10 data will be there and as per scroll it will fetch more.
 - We have used coredata as local database to store data in local.
 
-Flow Of App :-
+Flow Of Task :-
 - There is splash screen which will appear for 2-3 seconds and user will redirect to user listing screen which will the first screen.
 - In User listing screen, we have used randonuser.me for API. App will fetch data from API and store into coredata and data will be appear from coredata database.
 - If user tap on any item, user will redirect to detail screen, in which user can get user information with user image as well.
